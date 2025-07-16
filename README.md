@@ -1,3 +1,6 @@
+# loomo
+learning and practicing a App based on Laravel Inertia Vue for CRM multitenant and notifications 
+
 ## Installation
 
 Clone the repo locally:
